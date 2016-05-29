@@ -1,0 +1,6 @@
+Aikaa tehtävien tekemiseen meni n. 1-2 tuntia. Tämä oli ensimmäinen kerta kun käsittelen Raspberryä.
+Unohdin ottaa ensimmäisellä luennolla SD- kortin, joten minun piti itse asentaa omalle kortilleni Raspbian. 
+Koska en omista kortinlukijaa, niin suoritin asennuksen kännykän kautta installleria käyttäen. Konfigurointi
+oli melkko helppoa, mitään ongelmia ei tullut. (Myös salasana vaihdettu!) Gitin käytöstä on jo kulunut aikaa,
+joten sen pystytäminen vei luultavasti sen yksinkertaisuuteen verrattuna eniten aikaa... Etäkäyttö onnistui myös
+hyvin ja osoittautui yllättävän helpoksi. Tässä apuna oli putty ja Xming. 
