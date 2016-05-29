@@ -8,5 +8,12 @@ hyvin ja osoittautui yllättävän helpoksi. Tässä apuna oli putty ja Xming.
 TEHTY:
 
 Tehtävä 1
+- [X] Laitteet kuitattu
+- [X] Raspberryn konfigurointi
+- [X] Raspberry päivitetty
+- [X] Raspberry liitetty verkkoon
+- [X] Salasana vaihdettu
 Tehtävä 2
+- [X] Github-repo
 Bonustehtävä 2
+- [X] Etäkäyttö
