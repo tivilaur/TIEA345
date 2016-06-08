@@ -1,0 +1,9 @@
+Aikaa kului tällä kertaa (tähän mennessä) 3-4 tuntia. En ollut maanantain ohjauksessa
+ja kaikki tehtävät käsittelivät jälleen minulle täysin uusia asioita. En ymmärtänyt ensin miten 
+GPIO toimii, joten senkin opiskeluun meni aikaa. Ledin vilkkumaan saaminen oli helppoa
+ohjeiden kanssa, mutta napin lisääminen oli toinen juttu. Kuitenkin lopulta kun sain 
+napin toimimaan, niin ratkaisu tuntui yksinkertaiselta. Valitettavasti aikaa tehtävien
+tekemiseen kunnolla ei löytynyt, sillä alkuviikosta minulla oli kiireitä, enkä saanut
+kytkentälankojaka kuin vasta maanantaina. Käytin demossa annettuja mallikoodeja tehtävien
+tekemisessä, sillä ne toimivat hyvin enkä olisi näin lyhyessä ajassa osannut koodata uusia, kun 
+Python on minulle täysin uusi kieli.
